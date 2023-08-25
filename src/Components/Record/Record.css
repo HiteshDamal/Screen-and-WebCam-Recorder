@@ -1,0 +1,27 @@
+.container1{
+    height:900px;
+    width: 640px;
+    margin: 88px auto 0 auto;
+    color: white
+}
+.screen{
+    height: 389px;
+    width: 647px
+}
+button{
+    color: white;
+    margin: 10px 20px 10px 20px;
+}
+.cam{
+    display: flex;
+    justify-content: space-around;
+}
+.scrren{
+    display: flex;
+    justify-content: space-around;
+
+}
+.btn-2{
+    height: 40px;
+    width: 250px;
+}
